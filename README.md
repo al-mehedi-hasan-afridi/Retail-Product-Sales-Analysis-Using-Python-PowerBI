@@ -27,5 +27,5 @@
 6. **Sales Distribution by State:**
    - **California** and **Texas** were top-selling states, with the largest product quantities sold, as highlighted on the map.
    - There are also significant sales in the Midwest and Eastern regions of the U.S.
-   - 
+   
 This analysis provides insights into sales distribution, product performance, and regional profitability, helping identify trends and focus areas for strategic decision-making.
